@@ -14,10 +14,11 @@
 <div align="center">
   <h2> Programming Languages </h2>
   <img src="logos/python-3.svg"     height="100px">
+  <img src="logos/ruby.svg"     height="100px">
 </div>
 
 <div align="center">
-  <h3> Interests </h3>
+  <h2> Interests </h2>
   <img src="logos/ansible.svg"                width="100px" height="100px">
   <img src="logos/elastic-elasticsearch.svg"  width="100px" height="100px">
   <img src="logos/elastic-logstash.svg"       width="100px" height="100px">
