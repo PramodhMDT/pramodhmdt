@@ -3,7 +3,6 @@
   <h2> 💻 DevOps Engineer | ⌨️ Programming Enthusiast | ✨ India </h2>
 </div>
 
-
 <div align="center">
   <h2> Currently Working On 🚀 </h2>
   <img src="https://github.com/PramodhMDT/pramodhmdt/blob/master/logos/atlassian-1.svg"  width="150px" height="150px">&nbsp;&nbsp;
@@ -13,7 +12,7 @@
 
 <div align="center">
   <h2> Programming Languages 💻 </h2>
-  <img src="https://github.com/PramodhMDT/pramodhmdt/blob/master/logos/python-5.svg" height="100px">&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/PramodhMDT/pramodhmdt/blob/master/logos/python-5.svg" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/PramodhMDT/pramodhmdt/blob/master/logos/ruby.svg"     height="100px">
 </div>
 
@@ -27,7 +26,6 @@
   <img src="https://github.com/PramodhMDT/pramodhmdt/blob/master/logos/terraform-enterprise.svg"   width="100px" height="100px">
 </div>
 
-
 ### Certifications Acheived
 
 <div align="left">
@@ -39,7 +37,6 @@
 <div>
   <h3> I'm currently working as a DevOps Engineer. </h3>
 </div>
-
 
 <!--
 **PramodhMDT/pramodhmdt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
