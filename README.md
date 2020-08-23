@@ -9,6 +9,15 @@
   </a>
 </div>
 
+<div>
+  <div align="left">
+    <p>Hello</p>
+  </div>
+  <div align="right">
+    <p>Hello</p>
+  </div>
+</div>
+
 
 <!--
 **PramodhMDT/pramodhmdt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
