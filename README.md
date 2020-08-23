@@ -5,23 +5,23 @@
 <br>
 <div align="center">
   <h2> Currently Working On 🚀 </h2>
-  <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/atlassian-1.svg"  width="150px" height="150px">&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/github-1.svg"     width="150px" height="150px">&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/docker.svg"       width="150px" height="150px">
+  <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/atlassian-1.svg"  width="100px" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/github-1.svg"     width="100px" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/docker.svg"       width="100px" height="100px">
 </div>
 
 <div align="center">
   <h2> Programming Languages 💻 </h2>
-  <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/python-5.svg"          height="100px">&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/ruby.svg"              height="100px">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/python-5.svg"          height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/ruby.svg"              height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/bash-1.svg"            height="100px">
 </div>
 
 <div align="center">
   <h2> Cloud Platforms ☁️ </h2>
-  <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/azure-1.svg"             height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/aws.svg"                 height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/google-cloud-1.svg"      height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/azure-1.svg"             height="70px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/aws.svg"                 height="70px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/google-cloud-1.svg"      height="70px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
 </div>
 
