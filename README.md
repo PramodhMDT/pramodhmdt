@@ -6,13 +6,18 @@
 
 <div align="center">
   <h2> Currently Working On 🚀 </h2>
-  <img src="logos/atlassian-1.svg"  width="200px" height="200px">
-  <img src="logos/github-1.svg"     width="200px" height="200px">
+  <img src="logos/atlassian-1.svg"  width="150px" height="150px">
+  <img src="logos/github-1.svg"     width="150px" height="150px">
+  <img src="logos/docker.svg"       width="150px" height="150px">
 </div>
 
+<div align="center">
+  <h2> Programming Languages </h2>
+  <img src="logos/python-3.svg"     height="100px">
+</div>
 
 <div align="center">
-  <h2> Interests </h2>
+  <h3> Interests </h3>
   <img src="logos/ansible.svg"                width="100px" height="100px">
   <img src="logos/elastic-elasticsearch.svg"  width="100px" height="100px">
   <img src="logos/elastic-logstash.svg"       width="100px" height="100px">
