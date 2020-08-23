@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <h2> Programming Languages </h2>
+  <h2> Programming Languages 💻 </h2>
   <img src="logos/python-5.svg" height="100px">&nbsp;&nbsp;&nbsp;
   <img src="logos/ruby.svg"     height="100px">
 </div>
