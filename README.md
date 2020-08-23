@@ -19,9 +19,9 @@
 
 <div align="center">
   <h2> Cloud Platforms ☁️ </h2>
-  <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/azure-1.svg"             height="100px">&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/aws.svg"                 height="100px">&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/google-cloud-1.svg"      height="100px">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/azure-1.svg"             height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/aws.svg"                 height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/google-cloud-1.svg"      height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
 </div>
 
