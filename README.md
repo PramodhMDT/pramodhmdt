@@ -13,7 +13,7 @@
 
 <div align="center">
   <h2> Programming Languages </h2>
-  <img src="logos/python-3.svg"     height="100px">
+  <img src="logos/python-5.svg"     height="100px">
   <img src="logos/ruby.svg"     height="100px">
 </div>
 
