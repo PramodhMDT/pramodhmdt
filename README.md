@@ -6,6 +6,8 @@
 
 <div align="center">
   <h2> Currently Working On 🚀 </h2>
+  <img src="logos/atlassian.svg"  width="200px" height="200px"> 
+  <img src="logos/github.svg"     width="200px" height="200px">
 </div>
 
 
