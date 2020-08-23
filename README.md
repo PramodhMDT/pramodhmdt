@@ -6,7 +6,7 @@
 
 <div align="center">
   <h2> Currently Working On 🚀 </h2>
-  <img src="logos/atlassian-1.svg"  width="150px" height="150px">&nbsp;&nbsp;
+  <img src="https://github.com/PramodhMDT/pramodhmdt/blob/master/logos/atlassian-1.svg"  width="150px" height="150px">&nbsp;&nbsp;
   <img src="logos/github-1.svg"     width="150px" height="150px">&nbsp;&nbsp;&nbsp;
   <img src="logos/docker.svg"       width="150px" height="150px">
 </div>
