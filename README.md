@@ -50,6 +50,11 @@
     <img src="https://user-images.githubusercontent.com/54981492/90975044-5edd6980-e54e-11ea-801c-d361d454f454.png" alt="Atlassian Jira Administrator" width="100px" height="100px">
   </a>
 </div>
+<br>
+
+![Pramodh's github stats](https://github-readme-stats.vercel.app/api?username=pramodhmdt&show_icons=true&theme=radical)
+
+
 <!--
 <div>
   <h3> I'm currently working as a DevOps Engineer. </h3>
