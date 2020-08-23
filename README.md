@@ -81,6 +81,6 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-✨✨✨✨✨✨✨✨✨✨✨ <h2>Thank You</h2> ✨✨✨✨✨✨✨✨✨✨✨ 
+✨✨✨✨✨✨✨✨✨✨✨ <b>Thank You</b> ✨✨✨✨✨✨✨✨✨✨✨ 
 
 </div>
