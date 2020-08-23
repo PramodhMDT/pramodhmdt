@@ -4,16 +4,14 @@
 </div>
 <br>
 <div align="center">
-  <div>
+  <div align="left">
   <h2> Currently Working On 🚀 </h2>
   <a href="https://www.atlassian.com"><img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/atlassian-1.svg"  width="100px" height="100px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.github.com"><img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/github-1.svg"     width="100px" height="100px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://azure.microsoft.com/en-in/services/devops"><img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/azure-devops.png" width="100px" height="100px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.docker.com"><img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/docker.svg"       width="100px" height="100px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </div>
-
-
-<div>
+<div align="right">
   <h2> Programming Languages 💻 </h2>
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/python-5.svg"          height="100px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <!--  <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/ruby.svg"              height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
@@ -55,10 +53,10 @@
 </div>
 <br>
 
+<div align="center">
 ![Pramodh's github stats](https://github-readme-stats.vercel.app/api?username=pramodhmdt&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pramodhmdt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 
 <!--
 <div>
