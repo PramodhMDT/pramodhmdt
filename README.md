@@ -6,7 +6,7 @@
 <div align="center">
   <h2> Currently Working On 🚀 </h2>
   <a href="https://www.atlassian.com"><img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/atlassian-1.svg"  width="100px" height="100px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/github-1.svg"     width="100px" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.github.com"><img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/github-1.svg"     width="100px" height="100px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/azure-devops.png" width="100px" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/docker.svg"       width="100px" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
