@@ -1,5 +1,6 @@
-<h3 align="center"> Hi there 👋 I'm Pramodh </h3>
-
+<div align="center">
+<h1>Hi there, I'm Pramodh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+</div>
 <!--
 **PramodhMDT/pramodhmdt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
