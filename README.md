@@ -7,7 +7,8 @@
   <h2> Currently Working On 🚀 </h2>
   <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/atlassian-1.svg"  width="100px" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/github-1.svg"     width="100px" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/docker.svg"       width="100px" height="100px">
+  <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/docker.svg"       width="100px" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/azure-devops.png"       width="100px" height="100px">
 </div>
 
 <div align="center">
@@ -16,15 +17,14 @@
   <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/ruby.svg"              height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/bash-1.svg"            height="100px">
 </div>
-
+<!--
 <div align="center">
   <h2> Cloud Platforms ☁️ </h2>
   <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/azure-1.svg"             height="70px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/aws.svg"                 height="70px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/google-cloud-1.svg"      height="70px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
 </div>
-
+-->
 <div align="center">
   <h2> Interests 🕹 </h2>
   <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/ansible.svg"                width="100px" height="100px">&nbsp;&nbsp;
