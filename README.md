@@ -5,25 +5,25 @@
 
 <div align="center">
   <h2> Currently Working On 🚀 </h2>
-  <img src="https://github.com/PramodhMDT/pramodhmdt/blob/master/logos/atlassian-1.svg"  width="150px" height="150px">&nbsp;&nbsp;
-  <img src="https://github.com/PramodhMDT/pramodhmdt/blob/master/logos/github-1.svg"     width="150px" height="150px">&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/PramodhMDT/pramodhmdt/blob/master/logos/docker.svg"       width="150px" height="150px">
+  <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/atlassian-1.svg"  width="150px" height="150px">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/github-1.svg"     width="150px" height="150px">&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/docker.svg"       width="150px" height="150px">
 </div>
 
 <div align="center">
   <h2> Programming Languages 💻 </h2>
-  <img src="https://github.com/PramodhMDT/pramodhmdt/blob/master/logos/python-5.svg" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/PramodhMDT/pramodhmdt/blob/master/logos/ruby.svg"     height="100px">
+  <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/python-5.svg" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/ruby.svg"     height="100px">
 </div>
 
 <div align="center">
   <h2> Interests </h2>
-  <img src="https://github.com/PramodhMDT/pramodhmdt/blob/master/logos/ansible.svg"                width="100px" height="100px">&nbsp;&nbsp;
-  <img src="https://github.com/PramodhMDT/pramodhmdt/blob/master/logos/elastic-elasticsearch.svg"  width="100px" height="100px">&nbsp;&nbsp;
-  <img src="https://github.com/PramodhMDT/pramodhmdt/blob/master/logos/elastic-logstash.svg"       width="100px" height="100px">&nbsp;&nbsp;
-  <img src="https://github.com/PramodhMDT/pramodhmdt/blob/master/logos/elastic-kibana.svg"         width="100px" height="100px">&nbsp;&nbsp;
-  <img src="https://github.com/PramodhMDT/pramodhmdt/blob/master/logos/nginx-1.svg"                width="100px" height="100px">&nbsp;&nbsp;
-  <img src="https://github.com/PramodhMDT/pramodhmdt/blob/master/logos/terraform-enterprise.svg"   width="100px" height="100px">
+  <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/ansible.svg"                width="100px" height="100px">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/elastic-elasticsearch.svg"  width="100px" height="100px">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/elastic-logstash.svg"       width="100px" height="100px">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/elastic-kibana.svg"         width="100px" height="100px">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/nginx-1.svg"                width="100px" height="100px">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/terraform-enterprise.svg"   width="100px" height="100px">
 </div>
 
 ### Certifications Acheived
