@@ -13,8 +13,8 @@
 <div align="center">
   <h2> Programming Languages 💻 </h2>
   <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/python-5.svg"    height="100px">&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/ruby.svg"        height="100px">
-  <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/bash.svg"        height="100px">
+  <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/ruby.svg"        height="100px">&nbsp;&nbsp;
+  <img src="https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/SVG/512x512.svg"      >
 </div>
 
 <div align="center">
