@@ -35,13 +35,13 @@
   <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/nginx-1.svg"                width="100px" height="100px">&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/terraform-enterprise.svg"   width="100px" height="100px">
 </div>
-
+<!--
 <div align="center">
   <h2> 📺 🎊 </h2>
   <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/national-geographic.svg"    width="100px" height="100px">&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/nasa-6.svg"                 width="100px" height="100px">&nbsp;&nbsp;
 </div>
-
+-->
 ## Certifications Acheived
 
 <div align="left">
@@ -49,11 +49,11 @@
     <img src="https://user-images.githubusercontent.com/54981492/90975044-5edd6980-e54e-11ea-801c-d361d454f454.png" alt="Atlassian Jira Administrator" width="100px" height="100px">
   </a>
 </div>
-
+<!--
 <div>
   <h3> I'm currently working as a DevOps Engineer. </h3>
 </div>
-
+-->
 <!--
 **PramodhMDT/pramodhmdt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
