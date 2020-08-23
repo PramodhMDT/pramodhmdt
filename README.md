@@ -3,12 +3,18 @@
   <h2> 💻 DevOps Engineer | ⌨️ Programming Enthusiast | ✨ India </h2>
 </div>
 
+
+<div align="center">
+  <h2> Currently Working On 🚀 </h2>
+</div>
+
+
 <div align="center">
   <h2> Interests </h2>
   <img src="logos/ansible.svg"                width="100px" height="100px">
   <img src="logos/elastic-elasticsearch.svg"  width="100px" height="100px">
-  <img src="logos/elastic-kibana.svg"         width="100px" height="100px">
   <img src="logos/elastic-logstash.svg"       width="100px" height="100px">
+  <img src="logos/elastic-kibana.svg"         width="100px" height="100px">
   <img src="logos/nginx-1.svg"                width="100px" height="100px">
   <img src="logos/terraform-enterprise.svg"   width="100px" height="100px">
 </div>
