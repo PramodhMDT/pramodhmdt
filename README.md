@@ -8,16 +8,16 @@
   <a href="https://www.atlassian.com"><img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/atlassian-1.svg"  width="100px" height="100px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.github.com"><img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/github-1.svg"     width="100px" height="100px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://azure.microsoft.com/en-in/services/devops"><img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/azure-devops.png" width="100px" height="100px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/docker.svg"       width="100px" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.docker.com"><img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/docker.svg"       width="100px" height="100px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
 </div>
 
 <div align="center">
   <h2> Programming Languages 💻 </h2>
-  <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/python-5.svg"          height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/python-5.svg"          height="100px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <!--  <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/ruby.svg"              height="100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
-  <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/bash-1.svg"            height="100px">
-</div>
+  <a href="https://devdocs.io/bash"><img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/bash-1.svg"            height="100px">
+</div></a>
 <!--
 <div align="center">
   <h2> Cloud Platforms ☁️ </h2>
