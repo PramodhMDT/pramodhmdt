@@ -2,7 +2,7 @@
   <h1>Hi there, I'm Pramodh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
   <h2> 💻 DevOps Engineer | ⌨️ Programming Enthusiast | ✨ India </h2>
 </div>
-
+<br>
 <div align="center">
   <h2> Currently Working On 🚀 </h2>
   <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/atlassian-1.svg"  width="150px" height="150px">&nbsp;&nbsp;
