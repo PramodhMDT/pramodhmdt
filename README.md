@@ -54,6 +54,8 @@
 
 ![Pramodh's github stats](https://github-readme-stats.vercel.app/api?username=pramodhmdt&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pramodhmdt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 <div>
