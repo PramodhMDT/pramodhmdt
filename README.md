@@ -2,10 +2,11 @@
 <h1>Hi there, I'm Pramodh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
-<a href="https://www.certmetrics.com/atlassian/public/badge.aspx?i=1&t=c&d=2019-12-07&ci=AT00141597" align="center">
-  <img src="https://user-images.githubusercontent.com/54981492/90975044-5edd6980-e54e-11ea-801c-d361d454f454.png" alt="Atlassian Jira Administrator">
+<div align="center">
+<a href="https://www.certmetrics.com/atlassian/public/badge.aspx?i=1&t=c&d=2019-12-07&ci=AT00141597">
+  <img src="https://user-images.githubusercontent.com/54981492/90975044-5edd6980-e54e-11ea-801c-d361d454f454.png" alt="Atlassian Jira Administrator" width="200px" height="200px">
 </a>
-
+</div>
 
 
 <!--
