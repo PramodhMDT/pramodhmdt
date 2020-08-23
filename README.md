@@ -4,18 +4,14 @@
 </div>
 
 <div align="left">
+
   <a href="https://www.certmetrics.com/atlassian/public/badge.aspx?i=1&t=c&d=2019-12-07&ci=AT00141597">
     <img src="https://user-images.githubusercontent.com/54981492/90975044-5edd6980-e54e-11ea-801c-d361d454f454.png" alt="Atlassian Jira Administrator" width="100px" height="100px">
   </a>
 </div>
 
 <div>
-  <div align="left">
-    <p>Hello</p>
-  </div>
-  <div align="right">
-    <p>Hello</p>
-  </div>
+  <h3> I'm currently working as a DevOps Engineer. </h3>
 </div>
 
 
