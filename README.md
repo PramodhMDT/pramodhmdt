@@ -3,6 +3,11 @@
   <h2> 💻 DevOps Engineer | ⌨️ Programming Enthusiast | ✨ India </h2>
 </div>
 
+<div align="center">
+  <h2> Interests </h2>
+</div>
+
+
 ### Certifications Acheived
 
 <div align="left">
