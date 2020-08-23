@@ -26,6 +26,12 @@
   <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/terraform-enterprise.svg"   width="100px" height="100px">
 </div>
 
+<div align="center">
+  <h2> 📺 🎊 </h2>
+  <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/national-geographic.svg"    width="100px" height="100px">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/nasa-6.svg"                 width="100px" height="100px">&nbsp;&nbsp;
+</div>
+
 ## Certifications Acheived
 
 <div align="left">
