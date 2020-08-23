@@ -1,8 +1,20 @@
 <div align="center">
-  <h1>Hi there, I'm Pramodh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+  <h1>Hi there, I'm 🧒 Pramodh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
   <h2> 💻 DevOps Engineer | ⌨️ Programming Enthusiast | ✨ India </h2>
 </div>
 <br>
+
+- 🔭 I’m currently working on GtiHub Enterprise Server, Atlassian Stack of Tools, Docker, Azure DevOps, Shell Scripting, API's
+- 🌱 I’m currently learning Kubernetes, Azure Cloud, Ruby
+- 👯 I’m looking to collaborate on ELK Stack
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ..
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Moon is falling down 🌑
+
+
+
 <div align="center">
   <div>
   <h2> Currently Working On 🚀 </h2>
@@ -70,14 +82,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
 <div align="center">
 
