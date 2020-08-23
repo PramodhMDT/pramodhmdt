@@ -26,7 +26,7 @@
   <img src="https://raw.githubusercontent.com/PramodhMDT/pramodhmdt/master/logos/terraform-enterprise.svg"   width="100px" height="100px">
 </div>
 
-### Certifications Acheived
+## Certifications Acheived
 
 <div align="left">
   <a href="https://www.certmetrics.com/atlassian/public/badge.aspx?i=1&t=c&d=2019-12-07&ci=AT00141597">
