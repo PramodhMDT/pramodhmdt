@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on ELK Stack
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ![👉](https://github.com/PramodhMDT/pramodhmdt/issues)
+- 📫 How to reach me: [👉](https://github.com/PramodhMDT/pramodhmdt/issues)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Moon is falling down 🌑
 
